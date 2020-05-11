@@ -9,7 +9,7 @@
 - Exporatory Data Analysis
 - Create a dashboard based on analysis
 
-### Scrape
+### Pages to Scrape
 
 - [Candidatewise data](http://results.eci.gov.in/DELHITRENDS2020/ConstituencywiseU051.htm?ac=1)
 - [Partywise](http://results.eci.gov.in/DELHITRENDS2020/partywiseresult-U05.htm)
