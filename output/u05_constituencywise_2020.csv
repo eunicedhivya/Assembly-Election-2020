@@ -1,0 +1,71 @@
+const_name,const_no,lead_cand,lead_party,trail_cand,trail_party,margin,status
+ADARSH NAGAR,4,PAWAN SHARMA,Aam Aadmi Party,RAJ KUMAR BHATIA,Bharatiya Janata Party,1589,Result Declared
+AMBEDKAR NAGAR(SC),48,AJAY DUTT,Aam Aadmi Party,KHUSHIRAM CHUNAR,Bharatiya Janata Party,28327,Result Declared
+BABARPUR,67,GOPAL RAI,Aam Aadmi Party,NARESH GAUR,Bharatiya Janata Party,33062,Result Declared
+BADARPUR,53,RAMVIR SINGH BIDHURI,Bharatiya Janata Party,RAM SINGH NETAJI,Aam Aadmi Party,3719,Result Declared
+BADLI,5,AJESH YADAV,Aam Aadmi Party,VIJAY KUMAR BHAGAT,Bharatiya Janata Party,29123,Result Declared
+BALLIMARAN,22,IMRAN HUSSAIN,Aam Aadmi Party,LATA,Bharatiya Janata Party,36172,Result Declared
+BAWANA(SC),7,JAI BHAGWAN,Aam Aadmi Party,RAVINDER KUMAR,Bharatiya Janata Party,11526,Result Declared
+BIJWASAN,36,BHUPINDER SINGH JOON,Aam Aadmi Party,SAT PRAKASH RANA,Bharatiya Janata Party,753,Result Declared
+BURARI,2,SANJEEV JHA,Aam Aadmi Party,SHAILENDRA KUMAR,Janata Dal (United),88158,Result Declared
+CHANDNI CHOWK,20,PARLAD SINGH SAWHNEY,Aam Aadmi Party,SUMAN KUMAR GUPTA,Bharatiya Janata Party,29584,Result Declared
+ADARSH NAGAR,4,PAWAN SHARMA,Aam Aadmi Party,RAJ KUMAR BHATIA,Bharatiya Janata Party,1589,Result Declared
+AMBEDKAR NAGAR(SC),48,AJAY DUTT,Aam Aadmi Party,KHUSHIRAM CHUNAR,Bharatiya Janata Party,28327,Result Declared
+BABARPUR,67,GOPAL RAI,Aam Aadmi Party,NARESH GAUR,Bharatiya Janata Party,33062,Result Declared
+BADARPUR,53,RAMVIR SINGH BIDHURI,Bharatiya Janata Party,RAM SINGH NETAJI,Aam Aadmi Party,3719,Result Declared
+BADLI,5,AJESH YADAV,Aam Aadmi Party,VIJAY KUMAR BHAGAT,Bharatiya Janata Party,29123,Result Declared
+BALLIMARAN,22,IMRAN HUSSAIN,Aam Aadmi Party,LATA,Bharatiya Janata Party,36172,Result Declared
+BAWANA(SC),7,JAI BHAGWAN,Aam Aadmi Party,RAVINDER KUMAR,Bharatiya Janata Party,11526,Result Declared
+BIJWASAN,36,BHUPINDER SINGH JOON,Aam Aadmi Party,SAT PRAKASH RANA,Bharatiya Janata Party,753,Result Declared
+BURARI,2,SANJEEV JHA,Aam Aadmi Party,SHAILENDRA KUMAR,Janata Dal (United),88158,Result Declared
+CHANDNI CHOWK,20,PARLAD SINGH SAWHNEY,Aam Aadmi Party,SUMAN KUMAR GUPTA,Bharatiya Janata Party,29584,Result Declared
+ADARSH NAGAR,4,PAWAN SHARMA,Aam Aadmi Party,RAJ KUMAR BHATIA,Bharatiya Janata Party,1589,Result Declared
+AMBEDKAR NAGAR(SC),48,AJAY DUTT,Aam Aadmi Party,KHUSHIRAM CHUNAR,Bharatiya Janata Party,28327,Result Declared
+BABARPUR,67,GOPAL RAI,Aam Aadmi Party,NARESH GAUR,Bharatiya Janata Party,33062,Result Declared
+BADARPUR,53,RAMVIR SINGH BIDHURI,Bharatiya Janata Party,RAM SINGH NETAJI,Aam Aadmi Party,3719,Result Declared
+BADLI,5,AJESH YADAV,Aam Aadmi Party,VIJAY KUMAR BHAGAT,Bharatiya Janata Party,29123,Result Declared
+BALLIMARAN,22,IMRAN HUSSAIN,Aam Aadmi Party,LATA,Bharatiya Janata Party,36172,Result Declared
+BAWANA(SC),7,JAI BHAGWAN,Aam Aadmi Party,RAVINDER KUMAR,Bharatiya Janata Party,11526,Result Declared
+BIJWASAN,36,BHUPINDER SINGH JOON,Aam Aadmi Party,SAT PRAKASH RANA,Bharatiya Janata Party,753,Result Declared
+BURARI,2,SANJEEV JHA,Aam Aadmi Party,SHAILENDRA KUMAR,Janata Dal (United),88158,Result Declared
+CHANDNI CHOWK,20,PARLAD SINGH SAWHNEY,Aam Aadmi Party,SUMAN KUMAR GUPTA,Bharatiya Janata Party,29584,Result Declared
+ADARSH NAGAR,4,PAWAN SHARMA,Aam Aadmi Party,RAJ KUMAR BHATIA,Bharatiya Janata Party,1589,Result Declared
+AMBEDKAR NAGAR(SC),48,AJAY DUTT,Aam Aadmi Party,KHUSHIRAM CHUNAR,Bharatiya Janata Party,28327,Result Declared
+BABARPUR,67,GOPAL RAI,Aam Aadmi Party,NARESH GAUR,Bharatiya Janata Party,33062,Result Declared
+BADARPUR,53,RAMVIR SINGH BIDHURI,Bharatiya Janata Party,RAM SINGH NETAJI,Aam Aadmi Party,3719,Result Declared
+BADLI,5,AJESH YADAV,Aam Aadmi Party,VIJAY KUMAR BHAGAT,Bharatiya Janata Party,29123,Result Declared
+BALLIMARAN,22,IMRAN HUSSAIN,Aam Aadmi Party,LATA,Bharatiya Janata Party,36172,Result Declared
+BAWANA(SC),7,JAI BHAGWAN,Aam Aadmi Party,RAVINDER KUMAR,Bharatiya Janata Party,11526,Result Declared
+BIJWASAN,36,BHUPINDER SINGH JOON,Aam Aadmi Party,SAT PRAKASH RANA,Bharatiya Janata Party,753,Result Declared
+BURARI,2,SANJEEV JHA,Aam Aadmi Party,SHAILENDRA KUMAR,Janata Dal (United),88158,Result Declared
+CHANDNI CHOWK,20,PARLAD SINGH SAWHNEY,Aam Aadmi Party,SUMAN KUMAR GUPTA,Bharatiya Janata Party,29584,Result Declared
+ADARSH NAGAR,4,PAWAN SHARMA,Aam Aadmi Party,RAJ KUMAR BHATIA,Bharatiya Janata Party,1589,Result Declared
+AMBEDKAR NAGAR(SC),48,AJAY DUTT,Aam Aadmi Party,KHUSHIRAM CHUNAR,Bharatiya Janata Party,28327,Result Declared
+BABARPUR,67,GOPAL RAI,Aam Aadmi Party,NARESH GAUR,Bharatiya Janata Party,33062,Result Declared
+BADARPUR,53,RAMVIR SINGH BIDHURI,Bharatiya Janata Party,RAM SINGH NETAJI,Aam Aadmi Party,3719,Result Declared
+BADLI,5,AJESH YADAV,Aam Aadmi Party,VIJAY KUMAR BHAGAT,Bharatiya Janata Party,29123,Result Declared
+BALLIMARAN,22,IMRAN HUSSAIN,Aam Aadmi Party,LATA,Bharatiya Janata Party,36172,Result Declared
+BAWANA(SC),7,JAI BHAGWAN,Aam Aadmi Party,RAVINDER KUMAR,Bharatiya Janata Party,11526,Result Declared
+BIJWASAN,36,BHUPINDER SINGH JOON,Aam Aadmi Party,SAT PRAKASH RANA,Bharatiya Janata Party,753,Result Declared
+BURARI,2,SANJEEV JHA,Aam Aadmi Party,SHAILENDRA KUMAR,Janata Dal (United),88158,Result Declared
+CHANDNI CHOWK,20,PARLAD SINGH SAWHNEY,Aam Aadmi Party,SUMAN KUMAR GUPTA,Bharatiya Janata Party,29584,Result Declared
+ADARSH NAGAR,4,PAWAN SHARMA,Aam Aadmi Party,RAJ KUMAR BHATIA,Bharatiya Janata Party,1589,Result Declared
+AMBEDKAR NAGAR(SC),48,AJAY DUTT,Aam Aadmi Party,KHUSHIRAM CHUNAR,Bharatiya Janata Party,28327,Result Declared
+BABARPUR,67,GOPAL RAI,Aam Aadmi Party,NARESH GAUR,Bharatiya Janata Party,33062,Result Declared
+BADARPUR,53,RAMVIR SINGH BIDHURI,Bharatiya Janata Party,RAM SINGH NETAJI,Aam Aadmi Party,3719,Result Declared
+BADLI,5,AJESH YADAV,Aam Aadmi Party,VIJAY KUMAR BHAGAT,Bharatiya Janata Party,29123,Result Declared
+BALLIMARAN,22,IMRAN HUSSAIN,Aam Aadmi Party,LATA,Bharatiya Janata Party,36172,Result Declared
+BAWANA(SC),7,JAI BHAGWAN,Aam Aadmi Party,RAVINDER KUMAR,Bharatiya Janata Party,11526,Result Declared
+BIJWASAN,36,BHUPINDER SINGH JOON,Aam Aadmi Party,SAT PRAKASH RANA,Bharatiya Janata Party,753,Result Declared
+BURARI,2,SANJEEV JHA,Aam Aadmi Party,SHAILENDRA KUMAR,Janata Dal (United),88158,Result Declared
+CHANDNI CHOWK,20,PARLAD SINGH SAWHNEY,Aam Aadmi Party,SUMAN KUMAR GUPTA,Bharatiya Janata Party,29584,Result Declared
+ADARSH NAGAR,4,PAWAN SHARMA,Aam Aadmi Party,RAJ KUMAR BHATIA,Bharatiya Janata Party,1589,Result Declared
+AMBEDKAR NAGAR(SC),48,AJAY DUTT,Aam Aadmi Party,KHUSHIRAM CHUNAR,Bharatiya Janata Party,28327,Result Declared
+BABARPUR,67,GOPAL RAI,Aam Aadmi Party,NARESH GAUR,Bharatiya Janata Party,33062,Result Declared
+BADARPUR,53,RAMVIR SINGH BIDHURI,Bharatiya Janata Party,RAM SINGH NETAJI,Aam Aadmi Party,3719,Result Declared
+BADLI,5,AJESH YADAV,Aam Aadmi Party,VIJAY KUMAR BHAGAT,Bharatiya Janata Party,29123,Result Declared
+BALLIMARAN,22,IMRAN HUSSAIN,Aam Aadmi Party,LATA,Bharatiya Janata Party,36172,Result Declared
+BAWANA(SC),7,JAI BHAGWAN,Aam Aadmi Party,RAVINDER KUMAR,Bharatiya Janata Party,11526,Result Declared
+BIJWASAN,36,BHUPINDER SINGH JOON,Aam Aadmi Party,SAT PRAKASH RANA,Bharatiya Janata Party,753,Result Declared
+BURARI,2,SANJEEV JHA,Aam Aadmi Party,SHAILENDRA KUMAR,Janata Dal (United),88158,Result Declared
+CHANDNI CHOWK,20,PARLAD SINGH SAWHNEY,Aam Aadmi Party,SUMAN KUMAR GUPTA,Bharatiya Janata Party,29584,Result Declared
